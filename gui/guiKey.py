@@ -9,7 +9,7 @@ import tkinter.messagebox as tkmb
 import tkinter.filedialog as fd
 import guiLanding
 import sys
-sys.path.append("../Kripto_3/src/")
+sys.path.append("../Kripto_3-MAIN/src/")
 import key_generator as generator 
 
 OUTPUT_PATH = Path(__file__).parent

@@ -39,7 +39,7 @@ class Landing(Frame):
             418.0,
             277.96044921875,
             anchor="nw",
-            text="Digital Signature",
+            text="QR Digital Signature",
             fill="#000000",
             font=("Poppins", 42 * -1)
         )
@@ -103,7 +103,7 @@ class Landing(Frame):
             600.0,
             713.128662109375,
             anchor="n",
-            text="18220049 Rachmad Hidayat, 18220057 Muhammad Ardi Avicenna, 182200095 Tubagus Baraka Kautsar S.",
+            text="18220057 Muhammad Ardi Avicenna",
             fill="#000000",
             font=("Poppins ExtraBold", 16 * -1)
         )

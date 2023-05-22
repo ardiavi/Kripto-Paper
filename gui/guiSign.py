@@ -9,7 +9,7 @@ import tkinter.filedialog as fd
 import tkinter.messagebox as tkmb
 import sys
 import guiLanding
-sys.path.append("../Kripto_3/src/")
+sys.path.append("../Kripto_3-MAIN/src/")
 from RSA import sign_message, sign_file
 
 
@@ -149,7 +149,7 @@ class Sign(Frame):
             95.0,
             228.26953125,
             anchor="nw",
-            text="Message/File",
+            text="Message/File Link Hasil Scan QRIS",
             fill="#000000",
             font=("OpenSansRoman Regular", 20 * -1)
         )

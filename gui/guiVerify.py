@@ -9,7 +9,7 @@ import tkinter.filedialog as fd
 import tkinter.messagebox as tkmb
 import guiLanding
 import sys
-sys.path.append("../Kripto_3/src/")
+sys.path.append("../Kripto_3-MAIN/src/")
 import verification
 import RSA
 
@@ -136,7 +136,7 @@ class Verify(Frame):
             95.0,
             235.5958251953125,
             anchor="nw",
-            text="Message/File",
+            text="Message/File hasil scan QR",
             fill="#000000",
             font=("OpenSansRoman Regular", 20 * -1)
         )
